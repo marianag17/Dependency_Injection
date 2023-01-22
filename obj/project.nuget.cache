@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "azheG/Ml5TkIT3an7IvkkaPwrYImrlU6YltfxuAqCiNZAZqw3SdHAdUrSWc8wYw92RDSPNVLQVpHbJh/Q6kEoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\OneDrive\\Escritorio\\Dependency_Injection\\Dependency_Injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
